@@ -77,7 +77,7 @@ export default function ReportView({ auditLogs }: ReportViewProps) {
         <div className="flex flex-col md:flex-row md:items-center justify-between border-b-2 border-slate-900 pb-6 gap-4">
           <div className="space-y-1">
             <span className="font-sans font-extrabold text-2xl tracking-tight text-slate-900 block">
-              REDSHIELD <span className="text-red-650">AI</span>
+              ModelSentinel 
             </span>
             <span className="text-xs font-mono font-bold tracking-widest text-slate-500 uppercase block">
               cyber-security audit division
@@ -91,7 +91,7 @@ export default function ReportView({ auditLogs }: ReportViewProps) {
             </div>
             <div className="flex items-center md:justify-end space-x-1.5">
               <User className="w-3.5 h-3.5" />
-              <span>Lead Auditor: admin@redshield.ai</span>
+              <span>Lead Auditor: admin@modelsentinel.ai</span>
             </div>
             <span className="text-[10px] text-slate-400 font-bold block">REPORT REVISION: v3.11-SOC2</span>
           </div>
@@ -226,7 +226,7 @@ export default function ReportView({ auditLogs }: ReportViewProps) {
 
         {/* Document Footer */}
         <div className="pt-10 border-t border-slate-300 flex flex-col md:flex-row justify-between items-center text-[10px] text-slate-400 font-mono gap-2 text-center md:text-left">
-          <span>SIGNED BY REDSHIELD SECURITY AUDITORS BOARD</span>
+          <span>SIGNED BY ModelSentinel SECURITY AUDITORS BOARD</span>
           <span>DOCUMENT ENCRYPTION AUTH: SEC-9941-F2</span>
         </div>
       </div>
