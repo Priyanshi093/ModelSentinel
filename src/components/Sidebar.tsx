@@ -38,7 +38,7 @@ export default function Sidebar({ currentView, onViewChange }: SidebarProps) {
           </div>
           <div>
             <span className="font-bold text-white tracking-tight uppercase text-lg block leading-none">
-              RedShield <span className="text-red-500">AI</span>
+              ModelSentinel
             </span>
             <span className="text-[10px] text-slate-500 font-mono block tracking-widest uppercase mt-1">
               assessment platform
