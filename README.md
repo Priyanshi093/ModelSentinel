@@ -102,7 +102,7 @@ Findings are categorized into:
 * Critical Risk
 
 ## Architecture
-<img width="1024" height="1536" alt="ChatGPT Image Jun 23, 2026, 02_53_37 PM" src="https://github.com/user-attachments/assets/fcae429c-d2c7-4977-afef-e422b47594be" />
+<img width="600" height="1000" alt="ChatGPT Image Jun 23, 2026, 02_53_37 PM" src="https://github.com/user-attachments/assets/fcae429c-d2c7-4977-afef-e422b47594be" />
 
 
 ## Technology Stack
