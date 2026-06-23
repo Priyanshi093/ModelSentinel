@@ -1,0 +1,6 @@
+{
+  "name": "RedShield AI",
+  "description": "Enterprise AI Red Teaming and LLM Security Assessment Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
