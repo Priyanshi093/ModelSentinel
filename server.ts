@@ -16,7 +16,7 @@ if (GEMINI_API_KEY) {
       apiKey: GEMINI_API_KEY,
       httpOptions: {
         headers: {
-          "User-Agent": "redsheild-ai",
+          "User-Agent": "modelsentinel",
         },
       },
     });
