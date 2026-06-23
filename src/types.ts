@@ -1,4 +1,4 @@
-// Shared TypeScript definitions for RedShield AI Assessment Platform
+
 
 export type ViewType = "dashboard" | "library" | "engine" | "owasp" | "threat-intel" | "reports";
 

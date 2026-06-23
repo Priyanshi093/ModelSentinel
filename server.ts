@@ -371,7 +371,7 @@ async function start() {
   }
 
   app.listen(PORT, "0.0.0.0", () => {
-    console.log(`RedShield AI Server listening on http://localhost:${PORT}`);
+    console.log(`ModelSentinel Server listening on http://localhost:${PORT}`);
   });
 }
 
