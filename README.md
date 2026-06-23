@@ -102,25 +102,7 @@ Findings are categorized into:
 * Critical Risk
 
 ## Architecture
-User
-↓
-React Frontend
-↓
-Attack Library / Threat Intelligence
-↓
-Attack Engine
-↓
-Express API Backend
-↓
-Target Model Simulation
-↓
-Response Evaluation Engine
-↓
-Threat Scoring
-↓
-OWASP Mapping
-↓
-Audit Logs & Reports
+<img width="1024" height="1536" alt="ChatGPT Image Jun 23, 2026, 02_53_37 PM" src="https://github.com/user-attachments/assets/fcae429c-d2c7-4977-afef-e422b47594be" />
 
 
 ## Technology Stack
